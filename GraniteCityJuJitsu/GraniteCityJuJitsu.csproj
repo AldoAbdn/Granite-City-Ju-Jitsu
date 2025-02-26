@@ -12,11 +12,10 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Images\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <None Include="wwwroot\files\Syllabus.pdf" />
+    <None Include="wwwroot\images\backdrop.jpg" />
+    <None Include="wwwroot\images\favicon.jpg" />
+    <None Include="wwwroot\images\logo.jpg" />
   </ItemGroup>
 
 </Project>
